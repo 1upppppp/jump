@@ -8,9 +8,11 @@
 @font-face {
   font-family: 'Againts';
   src:  url('fonts/againts.otf')  format('opentype'),
-  url('fonts/Againts.woff') format('woff'), 
-  url('fonts/Againts.ttf')  format('truetype'), 
-  url('Againts.svg#Againts') format('svg');
+        url('fonts/Againts.eot') format('embedded-opentype')
+        url('fonts/Againts.woff') format('woff'), 
+        url('fonts/Againts.woff2') format('woff2'), 
+        url('fonts/Againts.ttf')  format('truetype'), 
+        url('Againts.svg#Againts') format('svg');
   font-weight: normal;
   font-style: normal;
 }
