@@ -1,18 +1,18 @@
 @font-face {
   font-family: 'Againts';
-  src: url('fonts/Againts.eot') format('embedded-opentype');
+  src: url('fonts/againts.eot') format('embedded-opentype');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Againts';
-  src: url('Againts.eot');
-  src: url('Againts.woff2') format('woff2'),
-       url('Againts.woff') format('woff'),
-       url('Againts.ttf') format('truetype'),
-       url('Againts.svg#Againts') format('svg'),
-       url('Againts.eot?#iefix') format('embedded-opentype');
+  src: url('againts.eot');
+  src: url('againts.woff2') format('woff2'),
+       url('againts.woff') format('woff'),
+       url('againts.ttf') format('truetype'),
+       url('againts.svg#againts') format('svg'),
+       url('againts.eot?#iefix') format('embedded-opentype');
   font-weight: normal;
   font-style: normal;
 }
