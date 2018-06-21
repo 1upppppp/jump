@@ -1,0 +1,28 @@
+@font-face {
+    font-family: Against;
+    src: url(font/against.otf);
+}
+
+#container {
+  position: relative;
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo {
+  font-family: "Against";
+  color: white;
+  font-size:5em;
+  display: block;
+  position: absolute;
+  height: 200px !important;
+  width: 200px !important;
+}
+.logo:after{
+  content: "!";
+  color: red;
+  font-size:inherit;
+}
