@@ -17,7 +17,7 @@
 
 <body>
 	<div id="container">
-		<img src="https://picsum.photos/1920/1080?blur&?random" />
+		<img src="https://picsum.photos/1920/1080?random" />
 		<div class="logoShade">Jump</div>
 		<div class="logo">Jump</div>
 		<div class="comingSoon"></div>
