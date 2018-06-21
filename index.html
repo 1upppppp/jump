@@ -17,7 +17,7 @@
 
 <body>
 	<div id="container">
-		<img src="https://picsum.photos/1920/1080?random" />
+		<!-- <img src="https://picsum.photos/1920/1080?random" /> -->
 		<div class="logoShade">Jump</div>
 		<div class="logo">Jump</div>
 		<div class="comingSoon"></div>
@@ -26,8 +26,8 @@
 	<script>
 		$("#container").mousemove(function(e) {
 			parallaxIt(e, ".logo", -150);
-			parallaxIt(e, ".logoShade", -130);
-			parallaxIt(e, "img", -20);
+			parallaxIt(e, ".logoShade", -125);
+			parallaxIt(e, "img", -25);
 		});
 
 		function parallaxIt(e, target, movement) {
