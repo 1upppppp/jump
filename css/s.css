@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'Againts';
-  src: url('http://www.thejumpevent.com/wp-content/themes/jump/font/againts.eot');
-  src: url('http://www.thejumpevent.com/wp-content/themes/jump/font/againts.woff2') format('woff2'),
-  url('http://www.thejumpevent.com/wp-content/themes/jump/font/againts.woff') format('font-woff'),
-  url('http://www.thejumpevent.com/wp-content/themes/jump/font/againts.ttf') format('truetype'),
-  url('http://www.thejumpevent.com/wp-content/themes/jump/font/againts.svg#againts') format('svg'),
-  url('http://www.thejumpevent.com/wp-content/themes/jump/font/againts.eot?#iefix') format('embedded-opentype');
+  src: url('../font/againts.eot');
+  src: url('../font/againts.woff2') format('woff2'),
+  url('../font/againts.woff') format('woff'),
+  url('../font/againts.ttf') format('truetype'),
+  url('../font/againts.svg#againts') format('svg'),
+  url('../font/againts.eot?#iefix') format('embedded-opentype');
   font-weight: normal;
   font-style: normal;
 }
